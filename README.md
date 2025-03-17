@@ -1,6 +1,4 @@
-Here’s a structured **GitHub README** for your **Sales Analysis Dashboard**:  
 
----
 
 # 📊 **Sales Analysis Dashboard**  
 
@@ -8,7 +6,7 @@ Here’s a structured **GitHub README** for your **Sales Analysis Dashboard**:
 The objective of this project is to analyze key sales metrics, including revenue, profit, units sold, and sales distribution across countries and products. The insights gained from this dashboard will help organizations optimize sales strategies, identify high-performing products, and improve revenue generation.  
 
 ### 📂 **Dataset Used**  
-- [Sales Analysis Dashboard](#) (Insert dataset link)  
+- [Sales Analysis Dashboard](#) ()  
 
 ### ❓ **Key Questions Addressed**  
 - 💰 **What is the total revenue generated?**  
