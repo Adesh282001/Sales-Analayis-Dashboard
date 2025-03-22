@@ -6,7 +6,12 @@
 The objective of this project is to analyze key sales metrics, including revenue, profit, units sold, and sales distribution across countries and products. The insights gained from this dashboard will help organizations optimize sales strategies, identify high-performing products, and improve revenue generation.  
 
 ### 📂 **Dataset Used**  
-- [Sales Analysis Dashboard](#) (https://github.com/Adesh282001/Sales-Analayis-Dashboard/blob/main/Sales%20Data2.xlsx)  
+- [Sales Analysis Dashboard](#) (https://github.com/Adesh282001/Sales-Analayis-Dashboard/blob/main/Sales%20Data2.xlsx)
+
+
+**DashBoard**
+![image](https://github.com/user-attachments/assets/c9fd1889-ebd3-43a5-94a4-f3f59f2266ae)
+
 
 ### ❓ **Key Questions Addressed**  
 - 💰 **What is the total revenue generated?**  
