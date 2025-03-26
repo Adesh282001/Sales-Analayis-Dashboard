@@ -9,7 +9,7 @@ The objective of this project is to analyze key sales metrics, including revenue
 - [Sales Analysis Dashboard](#) (https://github.com/Adesh282001/Sales-Analayis-Dashboard/blob/main/Sales%20Data2.xlsx)
 
 
-**DashBoard**
+## **DashBoard**
 ![image](https://github.com/user-attachments/assets/c9fd1889-ebd3-43a5-94a4-f3f59f2266ae)
 
 
